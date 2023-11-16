@@ -1,0 +1,4 @@
+DEBUG - 2023-11-13 23:29:27,927 - main - main.main:22 - Scraper started work.
+INFO - 2023-11-13 23:29:28,524 - main.catalog_scraper - catalog_scraper.scrap_catalog:41 - Categories found: 113.
+DEBUG - 2023-11-13 23:29:28,524 - main - main.main:31 - Categories got. Now worktime: 0.60s
+INFO - 2023-11-13 23:30:39,397 - main - main.main:74 - Scraper ended work. Worktime: 71.47s; Requests: 914.

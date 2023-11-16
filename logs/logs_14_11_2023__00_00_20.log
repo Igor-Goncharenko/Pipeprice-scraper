@@ -1,0 +1,7 @@
+DEBUG - 2023-11-14 00:00:20,635 - main - main.main:22 - Scraper started work.
+DEBUG - 2023-11-14 00:00:20,641 - main.utils - utils.load_from_csv:26 - Data loaded from 'data\categories.csv'. Total lines: 0
+INFO - 2023-11-14 00:00:20,642 - main.category_scraper - category_scraper.scrap_all_categories:99 - All categories scraped. Found: 0 products; and 0 None (Not scraped categories)
+DEBUG - 2023-11-14 00:00:20,643 - main.utils - utils.save_to_csv:17 - Data saved to 'data\categories.csv'. Total lines: 0
+DEBUG - 2023-11-14 00:00:20,644 - main - main.main:55 - Product urls got. Now worktime: 0.01s
+DEBUG - 2023-11-14 00:00:21,620 - main.utils - utils.load_from_csv:26 - Data loaded from 'data\product_urls.csv'. Total lines: 44648
+INFO - 2023-11-14 00:00:21,798 - main - main.main:85 - Scraper ended work. Worktime: 1.16s; Connection function calls: 0;Successful requests: 0.

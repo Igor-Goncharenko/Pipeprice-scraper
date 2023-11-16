@@ -1,0 +1,7 @@
+DEBUG - 2023-11-14 02:25:02,953 - main - test.main:22 - Scraper started work.
+DEBUG - 2023-11-14 02:25:49,044 - main.product_scraper - product_scraper.scrap_products:59 - Products got: 1/1 (100.0%)
+DEBUG - 2023-11-14 02:25:49,044 - main - test.main:37 - Products got. Now worktime: 46.09s
+DEBUG - 2023-11-14 02:25:49,046 - main.utils - utils.save_to_csv:17 - Data saved to 'data\product_urls.csv'. Total lines: 0
+DEBUG - 2023-11-14 02:25:49,046 - main.utils - utils.load_from_csv:26 - Data loaded from 'data\product.csv'. Total lines: 2
+DEBUG - 2023-11-14 02:25:49,047 - main.utils - utils.save_to_csv:17 - Data saved to 'data\product.csv'. Total lines: 2
+INFO - 2023-11-14 02:25:49,053 - main - test.main:54 - Scraper ended work. Worktime: 46.10s; Connection function calls: 1;Successful requests: 1.

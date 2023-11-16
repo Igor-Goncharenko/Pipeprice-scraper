@@ -1,0 +1,6 @@
+aiohttp~=3.8.6
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
+aiocsv~=1.2.5
+aiofiles~=23.2.1
+lxml~=4.9.3

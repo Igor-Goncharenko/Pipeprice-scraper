@@ -1,0 +1,9 @@
+DEBUG - 2023-11-13 23:46:27,750 - main - main.main:22 - Scraper started work.
+INFO - 2023-11-13 23:46:28,345 - main.catalog_scraper - catalog_scraper.scrap_catalog:41 - Categories found: 113.
+DEBUG - 2023-11-13 23:46:28,345 - main - main.main:31 - Categories got. Now worktime: 0.60s
+INFO - 2023-11-13 23:49:51,129 - main.category_scraper - category_scraper.scrap_all_categories:99 - All categories scraped. Found: 44648 products; and 0 None (Not scraped categories)
+DEBUG - 2023-11-13 23:49:51,138 - main.utils - utils.save_to_csv:17 - Data saved to 'data\categories.csv'. Total lines: 0
+DEBUG - 2023-11-13 23:49:51,279 - main.utils - utils.save_to_csv:17 - Data saved to 'data\product_urls.csv'. Total lines: 44648
+DEBUG - 2023-11-13 23:49:51,280 - main - main.main:51 - Product urls got. Now worktime: 203.53s
+DEBUG - 2023-11-13 23:49:51,285 - main - main.main:78 - Program ended work with 'KeyboardInterrupt'.
+INFO - 2023-11-13 23:49:51,285 - main - main.main:81 - Scraper ended work. Worktime: 203.53s; Requests: 914.

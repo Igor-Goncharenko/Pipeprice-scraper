@@ -1,0 +1,7 @@
+DEBUG - 2023-11-13 23:20:32,514 - main - main.main:22 - Scraper started work.
+INFO - 2023-11-13 23:20:33,268 - main.catalog_scraper - catalog_scraper.scrap_catalog:41 - Categories found: 113.
+DEBUG - 2023-11-13 23:20:33,274 - main - main.main:31 - Categories got. Now worktime: 0.76s
+INFO - 2023-11-13 23:23:58,823 - main.category_scraper - category_scraper.scrap_all_categories:99 - All categories scraped. Found: 44648 products; and 0 None (Not scraped categories)
+DEBUG - 2023-11-13 23:23:58,836 - main.utils - utils.save_to_csv:17 - Data saved to 'data\categories.csv'. Total lines: 0
+DEBUG - 2023-11-13 23:23:58,837 - main - main.main:45 - Product urls got. Now worktime: 206.32s
+INFO - 2023-11-13 23:24:22,218 - main - main.main:74 - Scraper ended work. Worktime: 229.71s; Requests: 45562.

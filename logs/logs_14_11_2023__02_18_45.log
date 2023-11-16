@@ -1,0 +1,4 @@
+DEBUG - 2023-11-14 02:18:46,003 - main - test.main:22 - Scraper started work.
+DEBUG - 2023-11-14 02:19:22,507 - main.product_scraper - product_scraper.scrap_products:59 - Products got: 1/1 (100.0%)
+DEBUG - 2023-11-14 02:19:22,508 - main - test.main:36 - Products got. Now worktime: 36.50s
+INFO - 2023-11-14 02:19:22,508 - main - test.main:53 - Scraper ended work. Worktime: 36.50s; Connection function calls: 1;Successful requests: 1.

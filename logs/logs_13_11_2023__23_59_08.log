@@ -1,0 +1,5 @@
+DEBUG - 2023-11-13 23:59:08,860 - main - main.main:22 - Scraper started work.
+INFO - 2023-11-13 23:59:09,585 - main.catalog_scraper - catalog_scraper.scrap_catalog:41 - Categories found: 113.
+DEBUG - 2023-11-13 23:59:09,588 - main.utils - utils.save_to_csv:17 - Data saved to 'data\categories_full.csv'. Total lines: 113
+DEBUG - 2023-11-13 23:59:09,588 - main - main.main:35 - Categories got. Now worktime: 0.73s
+INFO - 2023-11-13 23:59:19,594 - main - main.main:84 - Scraper ended work. Worktime: 10.73s; Connection function calls: 267;Successful requests: 267.

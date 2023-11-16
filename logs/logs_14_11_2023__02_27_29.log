@@ -1,0 +1,2 @@
+DEBUG - 2023-11-14 02:27:29,108 - main - test.main:22 - Scraper started work.
+INFO - 2023-11-14 02:27:29,119 - main - test.main:53 - Scraper ended work. Worktime: 0.01s; Connection function calls: 20;Successful requests: 20.

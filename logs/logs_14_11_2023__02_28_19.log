@@ -1,0 +1,17 @@
+DEBUG - 2023-11-14 02:28:19,832 - main - test.main:22 - Scraper started work.
+WARNING - 2023-11-14 02:28:20,068 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,074 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,081 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,088 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,100 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,106 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,112 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,199 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,226 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:20,236 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+DEBUG - 2023-11-14 02:28:51,649 - main.product_scraper - product_scraper.scrap_products:59 - Products got: 20/20 (100.0%)
+DEBUG - 2023-11-14 02:28:51,650 - main - test.main:36 - Products got. Now worktime: 31.82s
+DEBUG - 2023-11-14 02:28:51,651 - main.utils - utils.save_to_csv:17 - Data saved to 'data\product_urls.csv'. Total lines: 10
+DEBUG - 2023-11-14 02:28:51,652 - main.utils - utils.load_from_csv:26 - Data loaded from 'data\product.csv'. Total lines: 13
+DEBUG - 2023-11-14 02:28:51,653 - main.utils - utils.save_to_csv:17 - Data saved to 'data\product.csv'. Total lines: 22
+INFO - 2023-11-14 02:28:51,654 - main - test.main:53 - Scraper ended work. Worktime: 31.82s; Connection function calls: 20;Successful requests: 20.

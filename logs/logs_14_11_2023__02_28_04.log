@@ -1,0 +1,12 @@
+DEBUG - 2023-11-14 02:28:04,305 - main - test.main:22 - Scraper started work.
+WARNING - 2023-11-14 02:28:04,556 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,563 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,569 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,575 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,581 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,586 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,593 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,598 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,604 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+WARNING - 2023-11-14 02:28:04,669 - main.product_scraper - product_scraper.scrap_product:42 - Can't get https://docs.python.org/. AttributeError:23
+INFO - 2023-11-14 02:28:19,515 - main - test.main:53 - Scraper ended work. Worktime: 15.21s; Connection function calls: 20;Successful requests: 20.
